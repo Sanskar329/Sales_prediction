@@ -2,7 +2,7 @@
 
 Objectives:
 
-1.)Analyse dataset and perform exploratory analysis. 
+1.)Analyse dataset and perform exploratory data analysis. 
 
 2.)Treat the missing values appropriately
 
