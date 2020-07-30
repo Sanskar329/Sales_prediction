@@ -5,7 +5,7 @@ In this analysis , a predictive model is developed using appropriate machine lea
 
 The proposed model aims to help potential purchases by predicting product sales. In the notebook we have analysed and compared multiple regression methods.
 
-Finally , A Model is prepared to forecast inventory demand accurately, based on historical sales data.
+Finally , a Model is prepared to forecast inventory demand accurately, based on historical sales data.
 
 For beginners, this is a perfect project to learn data analytics and apply machine learning algorithms to forecast outlet sales efficiently.
 
