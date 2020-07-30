@@ -4,23 +4,17 @@ Objectives:
 
 1.)Analyse dataset and perform exploratory data analysis. 
 
-2.)Treat the missing values appropriately
+2.)Preprocess Data 
 
-3.)Deal with categorical data.
+3.)Fit regression models and compute RMSE and R-Square.
 
-4.)Normalize the data.
+4.)Loop through various regularization parameters to display and compare R-Square.
 
-5.)Fit regression models and compute RMSE and R-Square.
+5.)Fit residual plots .
 
-6.)Apply regularization techniques on the data. 
+6.)Give analysis on which independent variables have significant impact on the Sales of an outlet , call it as a best model.
 
-7.)Loop through various regularization parameters to display and compare R-Square.
-
-8.)Fit residual plots .
-
-9.)Give analysis on which independent variables have significant impact on the Sales of an outlet , call it as a best model.
-
-10.)Using this best model, predict the values of sales for the given test data and compute RMSE and R-Square.
+7.)Using this best model, predict the values of sales for the given test data and compute RMSE and R-Square.
 
 
 
