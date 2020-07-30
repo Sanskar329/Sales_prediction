@@ -8,7 +8,7 @@ Objectives:
 
 3.)Fit regression models and compute RMSE and R-Square.
 
-4.)Loop through various regularization parameters to display and compare R-Square.
+4.)Loop through various regularization parameters 
 
 5.)Fit residual plots .
 
