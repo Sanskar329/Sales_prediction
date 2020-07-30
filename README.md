@@ -1,5 +1,7 @@
 # Sales_prediction
+
 Objectives:
+
 1.)Analyse dataset and perform exploratory analysis. 
 
 2.)Treat the missing values appropriately
