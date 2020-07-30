@@ -1,5 +1,5 @@
 # Sales_prediction
-Premium demand forecasting is a key aspect of procurement management. Forecasts are crucial in  precise estimation of product's demand , particularly in supermarket and grocery stores sector. If the products are not readily available or the supply is higher than sales demand , companies has to suffer a huge losses .To minimize such losses , accurate sales prediction is very important .
+Premium demand forecasting is a key aspect of procurement management. Forecasts are crucial in  precise estimation of product's demand , particularly in supermarket and grocery stores sector. If the products are not readily available or the supply is higher than sales demand , companies has to suffer  huge losses .To minimize such losses , accurate sales prediction is very important .
 
 In this analysis , a predictive model is developed using appropriate machine learning algorithms to improve the accuracy of product sales forecasts. 
 
@@ -13,7 +13,7 @@ Objectives:
 
 1.)Analyse dataset and perform exploratory data analysis. 
 
-2.)Preprocess Data 
+2.)Preprocess Data appropriately.
 
 3.)Fit regression models and compute RMSE and R-Square.
 
