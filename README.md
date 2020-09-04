@@ -10,7 +10,7 @@ Finally , a Model is prepared to forecast inventory demand accurately, based on 
 
 For beginners, this is a perfect project to learn data analytics and apply machine learning algorithms to forecast outlet sales efficiently.
 
-Objectives:
+**Objectives:**
 
 1.)Analyse dataset and perform exploratory data analysis. 
 
@@ -25,6 +25,13 @@ Objectives:
 6.)Give analysis on which independent variables have significant impact on the Sales of an outlet , call it as a best model.
 
 7.)Using this best model, predict the values of sales for the given test data and compute RMSE and R-Square.
+
+**Conclusion**
+The Best model is developed using Ridge Resgression model which involves log transformation as key data manipulation which facilitates for better performance.
+The final Residual plot for Ridge regression model is
+
+
+
 
 
 
