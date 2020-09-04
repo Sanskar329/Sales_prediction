@@ -27,8 +27,16 @@ For beginners, this is a perfect project to learn data analytics and apply machi
 7.)Using this best model, predict the values of sales for the given test data and compute RMSE and R-Square.
 
 **Conclusion**
+
 The Best model is developed using Ridge Resgression model which involves log transformation as key data manipulation which facilitates for better performance.
-The final Residual plot for Ridge regression model is
+The final Residual plot for Ridge regression model :
+
+![Residual](https://user-images.githubusercontent.com/55439912/92225330-e7fe7580-ee57-11ea-985b-00579b537e1a.JPG)
+
+We developed a model with very high performance and hard to beat metric scores with the dataset given.
+Finally, Our model predicts sales for our company very effectively and accurately.
+
+
 
 
 
